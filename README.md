@@ -1,4 +1,5 @@
 # Menger-Sponge-Project
+
 In this project I built a WebGL program that shows a procedurally-generated fractals, the Menger sponge, with full user interaction using mouse and keyboard camera controls. I also applied texturing by writing several simple shaders that draw a checkerboard pattern on an infinite ground plane using 4 triangles.
 
 <p align="center">
